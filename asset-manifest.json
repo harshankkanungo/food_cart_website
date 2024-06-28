@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/food_cart_website/static/css/main.498759ca.css",
+    "main.js": "/food_cart_website/static/js/main.d31a0a6f.js",
+    "index.html": "/food_cart_website/index.html",
+    "main.498759ca.css.map": "/food_cart_website/static/css/main.498759ca.css.map",
+    "main.d31a0a6f.js.map": "/food_cart_website/static/js/main.d31a0a6f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.498759ca.css",
+    "static/js/main.d31a0a6f.js"
+  ]
+}
